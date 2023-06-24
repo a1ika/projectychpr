@@ -1,0 +1,10 @@
+{
+    "database": {
+        "user": "",
+        "password": "",
+        "host": "",
+        "port": "",
+        "name": ""
+    },
+    "log_file_path": "C:/Путь/к/вашему/файлу/access.log"
+}
